@@ -186,7 +186,7 @@ input[type="text"]:focus {
   text-decoration: underline;
 }
 
-.button:active  {
+.button:active {
   background-color: #545050;
 }
 
@@ -195,7 +195,7 @@ input[type="text"]:focus {
 }
 
 .button:focus-visible {
-  outline: 1px solid #FFFFFF;
+  outline: 1px solid #ffffff;
   outline-offset: 2px;
 }
 
@@ -273,7 +273,7 @@ input[type="text"]:focus {
   background-color: #545050;
 }
 
-.content__card-link:active  {
+.content__card-link:active {
   background-color: #545050;
 }
 
